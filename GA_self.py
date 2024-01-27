@@ -6,6 +6,7 @@ a = np.random.randint(0, 50, (1, 3))
 inheritedIndividual = 70
 
 coefficient = np.array([3, 4, 5])
+
 right = 100
 maxSize = 100
 
